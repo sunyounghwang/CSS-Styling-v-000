@@ -6,7 +6,11 @@ p {
 }
 
 figcaption {
-  font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
+  font: normal 0.75em/1.5em "Elsie Swash Caps", cursive;
   color: #777;
   text-align: left;
+}
+
+.milk-text {
+  font: bold 2.6em "Elsie Swash Caps", cursive;
 }
